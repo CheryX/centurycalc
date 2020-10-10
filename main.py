@@ -50,10 +50,10 @@ else:
     else:
         hmil = 2
     print ("#################")
-    print ("Year:", year, "A.D")
+    print ("Year:", year, "B.C")
     print ("#################")
-    print ("Century:", century, "A.D")
-    print ("Half of Century:", halffc, "A.D")
-    print ("Millennium:", mil2, "A.D")
-    print ("Half of Millennium:", hmil, "A.D")
+    print ("Century:", century, "B.C")
+    print ("Half of Century:", halffc, "B.C")
+    print ("Millennium:", mil2, "B.C")
+    print ("Half of Millennium:", hmil, "B.C")
     print ("#################")
